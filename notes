@@ -1,0 +1,10 @@
+Step1
+    #Intial default package jsom file
+    npm init -y
+Step2
+    #Install below libraries
+    npm install ejs express multer tesseract.js@2.0.0-alpha.15
+Step3
+    #Intialize codemon
+    npm install --save-dev nodemon    
+    # Update package json file 
